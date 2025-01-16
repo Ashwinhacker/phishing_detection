@@ -1,4 +1,3 @@
-# phishing_detection
 
 # Phishing URL Detection Tool
 
