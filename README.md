@@ -1,6 +1,6 @@
 # phishing_detection
 
-# Phishing URL Detection Tool**
+# Phishing URL Detection Tool
 
 ## Abstract
 
@@ -56,7 +56,7 @@ Phishing attacks are a significant cybersecurity threat, targeting unsuspecting 
 
 ###  Step 1: Clone the Repository
 ```bash
-git clone https://github.com/PERARASU10/Brainwave_matrix_intern.git
+git clone https://github.com/Ashwinhacker/phishing_detection.git
 cd phishing-url-detection
 ```
 
