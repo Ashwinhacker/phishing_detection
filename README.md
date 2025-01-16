@@ -119,7 +119,7 @@ python scanner.py
 ##Future Enhancements
 
 1.  Integration with Web Browsers : Develop browser extensions for real-time detection.
-2.  Improved Machine Learning Models**: Experiment with deep learning techniques.
+2.  Improved Machine Learning Models : Experiment with deep learning techniques.
 3.  Cloud-Based Deployment : Offer the tool as a web service.
 4.  Enhanced Visualization : Add charts and graphs to display prediction confidence.
 
