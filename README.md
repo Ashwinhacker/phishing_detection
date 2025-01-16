@@ -7,7 +7,7 @@ Phishing attacks are a significant cybersecurity threat, targeting unsuspecting 
 
 
 
-## objectives**
+## objectives
 
 1. **To develop an effective machine learning model**  capable of accurately distinguishing between phishing and legitimate URLs.
 2. **To create a user-friendly GUI** that simplifies the phishing URL detection process for non-technical users.
